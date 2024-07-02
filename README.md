@@ -36,6 +36,7 @@
     - About Dataset:
         - Breast Cancer dataset (imported using scikit-learn).
         - [More Information on the Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+    - Assumed baseline model (y = 1): 62.3% accuracy on test data
     - Training Plot:
         - <img width="250" alt="image" src="https://user-images.githubusercontent.com/77923668/232194475-9d566d9d-a0e1-4b4b-ad93-54c87336702f.png">
     - Accuracy: 0.956 on test set
